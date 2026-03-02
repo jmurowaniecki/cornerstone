@@ -1,8 +1,21 @@
-# Stack-agnostic process-first
+<img src="./docs/cornerstone.png" width="100%">
 
-Este é um **boilerplate universal**, independente de stack. É contrato social + estrutura previsível.
+Cornerstone é um blueprint arquitetônico para repositórios de software que estabelece fundamentos estruturais, operacionais e culturais para projetos duráveis.
 
-O boilerplate não impõe linguagem. **Ele impõe ritual.**
+Ele define princípios claros de organização, interface unificada via Makefile, documentação viva e contratos de colaboração independentes de stack ou linguagem. Mais que um template, Cornerstone é um ponto de alinhamento: a pedra angular que orienta estrutura, governança e evolução de qualquer projeto.
+
+Adotar o Cornerstone significa substituir improviso por fundação, acoplamento por clareza e conhecimento implícito por estrutura explícita.
+
+---
+
+Este projeto define um boilerplate universal para repositórios, focado em padronização, clareza estrutural e automação.
+Propõe uma interface unificada via Makefile, independente de stack ou linguagem.
+Estabelece convenções para documentação, versionamento e CI/CD.
+Transforma código em ativo sustentável, reduzindo fricção e dependência de conhecimento implícito.
+
+> Mais que um template, é um contrato operacional para projetos duráveis.
+>
+> O boilerplate não impõe linguagem. **Ele impõe ritual.**
 
 
 
