@@ -34,7 +34,7 @@ TODAY  ?= $(shell date +'%Y%m%d%H%M%S')
 ```
 Define a data atual no formato YYYYMMDDHHMMSS.
 
-Usa `?=` para permitir override externo e pode ser utilizada para versionamento, logs ou geração automática de artefatos.:w
+Usa `?=` para permitir override externo e pode ser utilizada para versionamento, logs ou geração automática de artefatos.
 
 ### WARNING
 ```Makefile
@@ -192,4 +192,4 @@ Funciona como absorvedor de chamadas não mapeadas.
 
 🧠 Filosofia Estrutural
 
-Este Makefile foi projetado como interface estável, orquestrador genérico e base para crescimento modular independente de stack específica. Privilegiando parametrização, extensibilidade, facilitando o uso de documentação embutida e flexibilidade operacional.:wq!
+Este Makefile foi projetado como interface estável, orquestrador genérico e base para crescimento modular independente de stack específica. Privilegiando parametrização, extensibilidade, facilitando o uso de documentação embutida e flexibilidade operacional.
